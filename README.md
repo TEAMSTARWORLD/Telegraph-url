@@ -1,16 +1,7 @@
 <h1 align= center>MediaToTelegraphLink-TeLeTiPs</h1>
 <h3 align = center>Powerful Telegram bot to generate Telegraph links for your media files. This bot can work also in group chats.</h3>
 <p align="center">
-<a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
-<br>
-    <img src="https://img.shields.io/github/stars/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=yellow" alt="Stars">
-    <img src="https://img.shields.io/github/forks/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=green" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=yellow" alt="Watchers"> <br>
-    <img src="https://img.shields.io/github/license/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=green" alt="License">
-    <img src="https://img.shields.io/github/repo-size/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=yellow" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=green" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=yellow" alt="Issues">
-</p>  
+<a href="https://python.org"><img src="https://telegra.ph/file/7db237d5ebb4743f1141a.jpg"></a>
 
 ## Deployment Methods
 
