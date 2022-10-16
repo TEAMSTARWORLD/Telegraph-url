@@ -26,9 +26,9 @@ sɪᴍᴘʟʏ sᴇɴᴅ ᴀ ᴠᴀʟɪᴅ ᴍᴇᴅɪᴀ ғɪʟᴇ ᴅɪʀᴇᴄ
 
 ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ʟɪɴᴋs ɪɴ **ɢʀᴏᴜᴘ ᴄʜᴀᴛs**, ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ sᴜᴘᴇʀɢʀᴏᴜᴘ ᴀɴᴅ sᴇɴᴅ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ <code>/tl</code> ᴀs ᴀ ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠᴀʟɪᴅ ᴍᴇᴅɪᴀ ғɪʟᴇ.
 
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ :[𝗦𝗧∆𝗥 𝗪𝗢𝗥𝗟𝗗](https://t.me/TG_STARWORLD) !
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ :[𝗦𝗧𝝙𝗥𝗪𝗢𝗥𝗟𝗗](https://t.me/TG_STARWORLD) !
 
-[ᴄʜᴀɴɴᴇʟ✨](https://t.me/TEACH_TEAMOP)
+𝗦𝗨𝗣𝗣𝗢𝗥𝗧 :[ᴄʟɪᴄᴋ ʜᴇʀᴇ ✨](https://t.me/TEACH_TEAMOP)
             """
     await startips.send_message(message.chat.id, text, disable_web_page_preview=True)
     
