@@ -1,1 +1,1 @@
-worker: python3 Telegraphurl.py
+worker: python3 telegraphurl.py
