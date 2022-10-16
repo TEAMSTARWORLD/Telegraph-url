@@ -7,7 +7,7 @@ from pyrogram.types import Message
 from telegraph import upload_file
 import os
 
-teletips=Client(
+startips=Client(
     "Telegraph-url",
     api_id = int(os.environ["API_ID"]),
     api_hash = os.environ["API_HASH"],
