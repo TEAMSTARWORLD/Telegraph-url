@@ -18,14 +18,16 @@ startips=Client(
 async def start(client, message):
     text = f"""
 Heya {message.from_user.mention},
-I am here to generate Telegraph links for your media files.
+ɪ ᴀᴍ ʜᴇʀᴇ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋs ғᴏʀ ʏᴏᴜʀ ᴍᴇᴅɪᴀ ғɪʟᴇs.
 
-Simply send a valid media file directly to this chat.
-Valid file types are 'jpeg', 'jpg', 'png', 'mp4' and 'gif'.
+sɪᴍᴘʟʏ sᴇɴᴅ ᴀ ᴠᴀʟɪᴅ ᴍᴇᴅɪᴀ ғɪʟᴇ ᴅɪʀᴇᴄᴛʟʏ ᴛᴏ ᴛʜɪs ᴄʜᴀᴛ.
 
-To generate links in **group chats**, add me to your supergroup and send the command <code>/tl</code> as a reply to a valid media file.
+ᴠᴀʟɪᴅ ғɪʟᴇ ᴛʏᴘᴇs ᴀʀᴇ 'ᴊᴘᴇɢ', 'ᴊᴘɢ', 'ᴘɴɢ', 'ᴍᴘ𝟺' ᴀɴᴅ 'ɢɪғ'.  
 
-🏠 | [Home](https://t.me/TEACH_TEAMOP)
+ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ʟɪɴᴋs ɪɴ **ɢʀᴏᴜᴘ ᴄʜᴀᴛs**, ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ sᴜᴘᴇʀɢʀᴏᴜᴘ ᴀɴᴅ sᴇɴᴅ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ <code>/tl</code> ᴀs ᴀ ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠᴀʟɪᴅ ᴍᴇᴅɪᴀ ғɪʟᴇ.
+Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ :[𝗦𝗧∆𝗥 𝗪𝗢𝗥𝗟𝗗](https://t.me/TG_STARWORLD) !
+
+[ᴄʜᴀɴɴᴇʟ✨](https://t.me/TEACH_TEAMOP)
             """
     await startips.send_message(message.chat.id, text, disable_web_page_preview=True)
     
