@@ -36,9 +36,9 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ :[𝗦𝗧𝝙𝗥𝗪𝗢𝗥𝗟𝗗](https://
 @startips.on_message(filters.media & filters.private)
 async def get_link_private(client, message):
     try:
-        text = await message.reply("Processing...")
+        text = await message.reply("ᴘʀᴏᴄᴇssɪɴɢ...")
         async def progress(current, total):
-            await text.edit_text(f"📥 Downloading media... {current * 100 / total:.1f}%")
+            await text.edit_text(f"📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴍᴇᴅɪᴀ... {current * 100 / total:.1f}%")
         try:
             location = f"./media/private/"
             local_path = await message.download(location, progress=progress)
