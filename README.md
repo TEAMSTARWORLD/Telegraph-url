@@ -3,13 +3,13 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/teletips/MediaToTelegraphLink-TeLeTiPs?style=for-the-badge&color=yellow" alt="Stars">
-    <img src="https://img.shields.io/github/forks/teletips/MediaToTelegraphLink-TeLeTiPs?style=for-the-badge&color=green" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/teletips/MediaToTelegraphLink-TeLeTiPs?style=for-the-badge&color=yellow" alt="Watchers"> <br>
-    <img src="https://img.shields.io/github/license/teletips/MediaToTelegraphLink-TeLeTiPs?style=for-the-badge&color=green" alt="License">
-    <img src="https://img.shields.io/github/repo-size/teletips/MediaToTelegraphLink-TeLeTiPs?style=for-the-badge&color=yellow" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/teletips/MediaToTelegraphLink-TeLeTiPs?style=for-the-badge&color=green" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/teletips/MediaToTelegraphLink-TeLeTiPs?style=for-the-badge&color=yellow" alt="Issues">
+    <img src="https://img.shields.io/github/stars/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=yellow" alt="Stars">
+    <img src="https://img.shields.io/github/forks/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=green" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=yellow" alt="Watchers"> <br>
+    <img src="https://img.shields.io/github/license/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=green" alt="License">
+    <img src="https://img.shields.io/github/repo-size/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=yellow" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=green" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/TEAMSTARWORLD/Telegraph-url?style=for-the-badge&color=yellow" alt="Issues">
 </p>  
 
 ## Deployment Methods
