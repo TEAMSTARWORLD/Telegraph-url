@@ -73,10 +73,10 @@ async def get_link_group(client, message):
     except Exception:
         pass                                           
 
-await GetAnyIDBot.send_message(message.chat.id, text, disable_web_page_preview=True)
+await startips.send_message(message.chat.id, text, disable_web_page_preview=True)
 
 
-@GetAnyIDBot.on_message(filters.command('id'))
+@startips.on_message(filters.command('id'))
 async def get_id(client, message):
     try:
 
