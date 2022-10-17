@@ -72,8 +72,8 @@ async def get_link_group(client, message):
             return         
     except Exception:
         pass                                           
-
-await startips.send_message(message.chat.id, text, disable_web_page_preview=True)
+        """
+    await startips.send_message(message.chat.id, text, disable_web_page_preview=True)
 
 
 @startips.on_message(filters.command('id'))
